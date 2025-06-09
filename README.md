@@ -1,4 +1,4 @@
-![Screenshot 2025-06-02 162358](https://github.com/user-attachments/assets/26bc9bcb-6e83-457a-ae7d-49fe209f270e)![Screenshot 2025-06-02 162200](https://github.com/user-attachments/assets/9b7c1458-8f87-444b-9cf2-47cb7e275400)# Netflix_Movie_Show_Analysis_Using_SQL
+# Netflix_Movie_Show_Analysis_Using_SQL
 ![31JfJ6dXD9L](https://github.com/user-attachments/assets/5085c0e7-19d2-4c5f-8d86-4a938b1321c1)
 
 1.	Join Tables
